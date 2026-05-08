@@ -1,4 +1,4 @@
-# E-Commerce Sales & Profit Analysis (2024–2025)
+# ecommerce-sales-analytics-sql-powerbi-python
 
 ## Project Overview
 
